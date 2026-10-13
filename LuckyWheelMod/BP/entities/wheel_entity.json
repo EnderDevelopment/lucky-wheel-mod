@@ -1,0 +1,19 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "luckywheelmod:wheel_entity",
+      "is_spawnable": true,
+      "is_summonable": true
+    },
+    "components": {
+      "minecraft:geometry": {
+        "identifier": "geometry.wheel_entity"
+      },
+      "minecraft:collision_box": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    }
+  }
+}

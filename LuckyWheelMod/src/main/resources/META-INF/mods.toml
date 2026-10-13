@@ -1,0 +1,21 @@
+[[mods]]
+modId="luckywheelmod"
+displayName="Lucky Wheel Mod"
+version="${file.jarVersion}"
+description='''
+A mod that adds a spinning wheel to Minecraft.
+'''
+
+[[dependencies.luckywheelmod]]
+modId="forge"
+mandatory=true
+versionRange="[1.26.60,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.luckywheelmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.26.60,)"
+ordering="NONE"
+side="BOTH"

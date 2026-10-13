@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "luckywheelmod:wheel_block",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:geometry": "geometry.wheel_block",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "wheel_block",
+          "render_method": "opaque"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Lucky Wheel Mod Resource Pack",
+    "name": "LuckyWheelMod",
+    "uuid": "00000000-0000-0000-0000-000000000002",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 60]
+  },
+  "modules": [
+    {
+      "description": "Lucky Wheel Mod Resource Pack",
+      "type": "resources",
+      "uuid": "00000000-0000-0000-0000-000000000003",
+      "version": [1, 0, 0]
+    }
+  ]
+}

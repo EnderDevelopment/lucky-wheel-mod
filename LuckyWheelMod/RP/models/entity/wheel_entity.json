@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.wheel_entity",
+        "texture_width": 64,
+        "texture_height": 64
+      },
+      "bones": [
+        {
+          "name": "wheel",
+          "pivot": [0, 0, 0],
+          "cubes": [
+            {
+              "origin": [-8, 0, -8],
+              "size": [16, 1, 16],
+              "uv": [0, 0]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

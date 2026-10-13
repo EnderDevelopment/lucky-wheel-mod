@@ -1,0 +1,39 @@
+{
+  "format_version": "1.0",
+  "minecraft:ui_definition": {
+    "description": {
+      "identifier": "luckywheelmod:wheel_ui",
+      "is_experimental": false
+    },
+    "controls": [
+      {
+        "type": "button",
+        "name": "spin_button",
+        "text": "SPIN",
+        "position": [0, 0],
+        "size": [100, 20]
+      },
+      {
+        "type": "button",
+        "name": "add_item_button",
+        "text": "ADD ITEM",
+        "position": [0, 30],
+        "size": [100, 20]
+      },
+      {
+        "type": "button",
+        "name": "remove_item_button",
+        "text": "REMOVE ITEM",
+        "position": [0, 60],
+        "size": [100, 20]
+      },
+      {
+        "type": "button",
+        "name": "last_winner_button",
+        "text": "LAST WINNER",
+        "position": [0, 90],
+        "size": [100, 20]
+      }
+    ]
+  }
+}
